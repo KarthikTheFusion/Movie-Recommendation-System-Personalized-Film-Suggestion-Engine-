@@ -1,0 +1,2 @@
+# Movie-Recommendation-System-Personalized-Film-Suggestion-Engine-
+Movie Recommendation System – Personalized Film Suggestion Engine 🎥  An intelligent, AI-powered engine that analyzes user preferences and movie similarities to deliver personalized film recommendations. Built with machine learning and TMDB API integration, it enhances the viewing experience by suggesting movies tailored to your taste.
