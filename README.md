@@ -46,7 +46,7 @@ api_key = 'YOUR_API_KEY'
 with your own key from TMDB API.
 
 Run the app
-bash
+'''bash
 streamlit run app.py
 Enjoy personalized movie recommendations! 🍿
 
@@ -61,15 +61,15 @@ Input Movie: Inception
 Recommended Movies: Interstellar, The Prestige, Memento, Shutter Island, etc.
 Each recommendation includes movie title and poster image.
 
-⚙️ File Structure
-bash
+```bash
 MovieRecommendationSystem/
 │
-├── app.py                 # Streamlit main app file
+├── app.py                 # Main Streamlit app file
 ├── movie_data.pkl         # Preprocessed movie data + cosine similarity matrix
-├── requirements.txt       # Dependencies
+├── requirements.txt       # Python dependencies
 ├── README.md              # Project documentation
-└── assets/                # (Optional) Add icons, screenshots, etc.
+└── assets/                # (Optional) Icons, screenshots, or visuals
+
 
 🧩 Requirements
 Python 3.8+
@@ -79,7 +79,7 @@ Requests
 Pickle
 
 You can install them all via:
-bash
+'''bash
 pip install streamlit pandas requests
 
 🌐 API Reference
@@ -97,4 +97,3 @@ If you'd like to improve this project, feel free to:
 Fork this repository
 Create a new branch
 Submit a pull request 🚀
-
